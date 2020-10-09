@@ -1,0 +1,7 @@
+C:\Users\888\source\repos\ProcessesKiller\ProcessesKiller\bin\Debug\ProcessesKiller.exe.config
+C:\Users\888\source\repos\ProcessesKiller\ProcessesKiller\bin\Debug\ProcessesKiller.exe
+C:\Users\888\source\repos\ProcessesKiller\ProcessesKiller\bin\Debug\ProcessesKiller.pdb
+C:\Users\888\source\repos\ProcessesKiller\ProcessesKiller\obj\Debug\ProcessesKiller.csprojAssemblyReference.cache
+C:\Users\888\source\repos\ProcessesKiller\ProcessesKiller\obj\Debug\ProcessesKiller.csproj.CoreCompileInputs.cache
+C:\Users\888\source\repos\ProcessesKiller\ProcessesKiller\obj\Debug\ProcessesKiller.exe
+C:\Users\888\source\repos\ProcessesKiller\ProcessesKiller\obj\Debug\ProcessesKiller.pdb
